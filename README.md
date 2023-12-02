@@ -4,6 +4,7 @@
 [![Gustavofda's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=gustavofda&show_icons=true&theme=default)](https://github.com/gustavofda/github-readme-stats#gh-light-mode-only)
 
 ##
+<h3>Tecnologias</h3>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gusta-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
