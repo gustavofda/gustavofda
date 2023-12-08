@@ -1,10 +1,7 @@
 ### Olá, eu sou o Gustavo Araujo, Desenvolvedor Front-End!
-
-[![Gustavofda's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gustavofda&show_icons=true&theme=dark)](https://github.com/gustavofda/github-readme-stats#gh-dark-mode-only)
-[![Gustavofda's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=gustavofda&show_icons=true&theme=default)](https://github.com/gustavofda/github-readme-stats#gh-light-mode-only)
-
+Sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Nove de Julho. Os convido a checar meus repósitorios para verem os meus projetos! Obrigado.
 ##
-<h3>Tecnologias</h3>
+<h3>Minhas Tecnologias</h3>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gusta-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
