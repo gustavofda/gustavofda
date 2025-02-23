@@ -15,7 +15,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Nove d
 
 ##
 <div>
-  <a href"mailto:gustavoaraujo2017fise@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
+  <a href="mailto:gustavoaraujo2017fise@gmail.com?subject=Assunto%20Aqui&body=Olá,%20Gustavo!" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
   <a href"https://www.linkedin.com/in/gustavofda/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
- <a href="https://wa.me/5511982491593?text=Olá%20Gustavo,%20tudo%20bem?%20Cheguei%20até%20aqui%20através%20do%20seu%20GitHub" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"target="_blank"></a>
+ <a href="https://wa.me/5511982491593?text=Olá%20Gustavo,%20tudo%20bem?%20Cheguei%20até%20aqui%20através%20do%20seu%20GitHub" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
