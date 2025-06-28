@@ -1,5 +1,5 @@
 ### ✨ Olá, eu sou o Gustavo Araujo, Desenvolvedor Front-End!
-Sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Nove de Julho. Considere verificar meus repósitorios para verem os meus projetos! Obrigado.
+Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Nove de Julho. Considere verificar meus repósitorios para verem os meus projetos! Obrigado.
 ##
 <h3>Minhas Tecnologias</h3>
 
